@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Coffee</string>
+    <string name="text_resultado" />
+    <string name="titulo_calculadora" />
+    <string name="text_num2" />
+    <string name="text_num1" />
+    <string name="logo_ContentDescription" />
+    <string name="saludo">Saludo</string>
+    <string name="suma">suma</string>
+    <string name="fibonacci">fibonacci</string>
+    <string name="ejercicio_1">Ejercicio 1</string>
+    <string name="resultado">Resultado</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_fibonacci">activity_fibonacci</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
